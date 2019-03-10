@@ -22,11 +22,11 @@ or perception of objects from different viewing directions.
 The action space has only four differnet actions: move forward, move backwards, turn left, turn right.
 
 # Running the Agent
-To run the agent you just need to open my_solution.ipnyb in Jupyter Notebook and run the cells.
+To run the agent you just need to open navigation_project.ipynb in Jupyter Notebook and run the cells.
+An example of a result run can be found in figure.png.
 
 # References
 A list of references that were used while working on the project, besides the Udacity Deep Reinforcement Learning course:
-# References
 
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. arXiv preprint arXiv:1809.02627. https://github.com/Unity-Technologies/ml-agents.
 
