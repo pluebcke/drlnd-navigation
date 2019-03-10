@@ -26,6 +26,7 @@ To run the agent you just need to open my_solution.ipnyb in Jupyter Notebook and
 
 # References
 A list of references that were used while working on the project, besides the Udacity Deep Reinforcement Learning course:
+# References
 
 [1] Juliani, A., Berges, V., Vckay, E., Gao, Y., Henry, H., Mattar, M., Lange, D. (2018). Unity: A General Platform for Intelligent Agents. arXiv preprint arXiv:1809.02627. https://github.com/Unity-Technologies/ml-agents.
 
@@ -37,12 +38,14 @@ A list of references that were used while working on the project, besides the Ud
 
 [5] https://github.com/udacity/deep-reinforcement-learning, last accessed: 10.03.2019
 
-[6] https://github.com/openai/baselines, last accessed: 10.03.2019
+[6] https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation, last accessed: 10.03.2019
 
-[7] https://pytorch.org/tutorials/, last accessed: 10.03.2019
+[7] https://github.com/openai/baselines, last accessed: 10.03.2019
 
-[8] Hessel, Matteo, et al. "Rainbow: Combining Improvements in Deep Reinforcement Learning." arXiv preprint arXiv:1710.02298 (2017).
+[8] https://pytorch.org/tutorials/, last accessed: 10.03.2019
 
-[9] Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.05952 (2015).
+[9] Hessel, Matteo, et al. "Rainbow: Combining Improvements in Deep Reinforcement Learning." arXiv preprint arXiv:1710.02298 (2017).
 
-[10] Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018.
+[10] Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.05952 (2015).
+
+[11] Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 2018.
